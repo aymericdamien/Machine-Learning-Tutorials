@@ -618,3 +618,6 @@ Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/s
 <a name="other" />
 ##Other Tutorials
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
+
+                                                     
+                                                      HAPPY CODING!!!
